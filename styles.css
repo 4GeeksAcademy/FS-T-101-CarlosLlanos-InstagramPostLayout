@@ -1,0 +1,52 @@
+.card {
+    display: flex;
+    border: 1px rgb(158, 158, 158);
+    margin-top: 3rem;
+    flex-direction: column;
+    width: 50%;
+    justify-self: center;
+}
+
+.card-header {
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+}
+
+.card-user{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.ht-p {
+    flex-direction: column;
+    margin-left: 5px;
+    margin-bottom: 5px;
+
+}
+
+h3, p {margin: auto;
+
+}
+.elipsis {
+    margin-left: 80%;
+    margin-top: 10px;
+}
+
+.card-body {
+    width: 100%;
+}
+
+.font-awesome-icons{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.card-footer-icons{
+    justify-items: center;
+}
+
+p {
+    padding-top: 10px;
+    
+}
